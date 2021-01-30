@@ -50,6 +50,11 @@
       <artifactId>spring-security-config</artifactId>
       <version>${spring_security}</version>
     </dependency>
+    <dependency>
+      <groupId>org.springframework.security</groupId>
+      <artifactId>spring-security-taglibs</artifactId>
+      <version>${spring_security}</version>
+    </dependency>
 
     <!-- java servlet -->
     <dependency>
